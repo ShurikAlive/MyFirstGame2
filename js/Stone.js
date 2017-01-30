@@ -1,0 +1,4 @@
+CStone = CBaseBlock.extend({
+
+});
+

@@ -1,0 +1,2 @@
+CBox = CBaseBlock.extend({
+});
